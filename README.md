@@ -29,8 +29,3 @@ Once the application starts, you will be presented with a menu:
 5.  **Book a Seat**: Select a train and a specific seat (Row, Column) to book.
 6.  **Cancel my Booking**: Cancel a booking using a Ticket ID.
 7.  **Exit the App**: Close the application.
-
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
